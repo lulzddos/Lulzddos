@@ -1,4 +1,5 @@
 
+```
 - [x] Add auto download fresh socks5 after attack with method sky and slowloris
 - [x] Add HTTP/2 (HTTPX) method
 - [x] Add bypass method [STRONG ATTACK]
@@ -6,11 +7,13 @@
 - [x] Change pxcfb to TSL1.3 Proxy Flood 
 - [x] Add HULK - HTTP Unbearable Load King
 - [x] Add pxHULK - proxy HTTP Unbearable Load King
-🖇️  Menu
+```
+  ##Menu
 
  ![IMG_20230802_225040](https://github.com/lulzddos/Lulzddos/assets/141240416/303a2364-d392-4a81-bb44-604bab24dfc7)
 
-🖇️  Methods
+  ##Methods
+  ```sh
   [Layer 7]
  - [x] spoof | STRONG ATTACK with spoof Header X-ForWard
  - [x] http2 | HTTP/2 attack with proxy [httpx]
@@ -41,9 +44,10 @@
  - [x] Dns        | Classic DNS Lookup
  - [x] Geoip      | Geo IP Address Lookup
  - [x] Subnet     | Subnet IP Address Lookup
+ ```
  
- 🖇️ Usage
-
+ ##Usage
+```sh
 DOWNLOAD:  git clone https://github.com/lulzddos/Lulzddos.git
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
@@ -52,8 +56,9 @@ NOTICE: For bypass work need install lastest verion Chrome
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
  Thread set 10-50 > work
-
-🖇️ Contact Developer
-
+```
+##Contact Developer
+```sh
 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
 discord : lulz7332
+```
