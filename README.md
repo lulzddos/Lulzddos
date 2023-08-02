@@ -1,4 +1,5 @@
-![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/6f35b6f9-c8f9-4476-9177-3f1193c9b082)
+![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
+
 
 ```sh
 - [x] Add auto download fresh socks5 after attack with method sky and slowloris
@@ -11,7 +12,8 @@
 ```
   ## Menu
 
- ![IMG_20230802_225040](https://github.com/lulzddos/Lulzddos/assets/141240416/303a2364-d392-4a81-bb44-604bab24dfc7)
+ ![IMG_20230802_225040](https://github.com/lulzddos/Lulzddos/assets/141240416/ae513a79-73b3-492a-bbda-3688d462e713)
+
 
   ## Methods
   ```sh
