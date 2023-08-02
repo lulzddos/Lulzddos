@@ -1,5 +1,6 @@
+![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/6f35b6f9-c8f9-4476-9177-3f1193c9b082)
 
-```
+```sh
 - [x] Add auto download fresh socks5 after attack with method sky and slowloris
 - [x] Add HTTP/2 (HTTPX) method
 - [x] Add bypass method [STRONG ATTACK]
